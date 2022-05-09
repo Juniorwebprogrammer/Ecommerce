@@ -8,28 +8,4 @@
     position: fixed;
     top: 0;
     z-index: 2;
-
-    .left{
-        padding: 10px 30px;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-    }
-
-    .logo{
-        font-size: 40px;
-        font-weight: 700;
-        text-decoration: none;
-        color: inherit;
-    }
-
-    .itemcontainer{
-        display: flex;
-        align-items: center;
-
-        .span{
-            font-size: 18px;
-            font-weight: 400;
-        }
-    }
 }
